@@ -1,3 +1,5 @@
+![language](https://github.com/jagadeeshkmanne/dsa/blob/master/resources/language-java-blue.svg?raw=true)
+
 ## Easy
 | Sno | Problem                                                                     | Solution                                           |
 |-----|-----------------------------------------------------------------------------|----------------------------------------------------|
