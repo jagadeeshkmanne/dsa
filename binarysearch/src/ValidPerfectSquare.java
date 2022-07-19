@@ -1,6 +1,7 @@
 public class ValidPerfectSquare {
 
-    //https://leetcode.com/problems/valid-perfect-square/
+    //problem: https://leetcode.com/problems/valid-perfect-square/
+    //solution: https://leetcode.com/submissions/detail/750907162/
 
     public static void main(String args[]) {
         System.out.println(isPerfectSquare(49));
