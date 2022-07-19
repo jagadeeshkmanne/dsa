@@ -1,2 +1,2 @@
-[Arrays](/master/arrays)
+[Arrays](/arrays)
 
