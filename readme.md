@@ -1,2 +1,2 @@
-[Arrays](dsa/tree/master/arrays)
+[Arrays](/master/arrays)
 
